@@ -1,4 +1,7 @@
-<html>
+![image](https://github.com/MicheleArg/chatdemo/assets/63675255/9998a04d-0cde-49a9-9a41-93457df53bd5)<html>
+	<head>
+		<meta name="referrer" content="no-referrer" />
+	</head>
   <body>
     <script type='text/javascript'>
 	function initEmbeddedMessaging() {
