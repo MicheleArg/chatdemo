@@ -1,8 +1,6 @@
 <html>
 	<head>
-	</head>
-  <body>
-    <script type='text/javascript'>
+		<script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'it'; // For example, enter 'en' or 'en-US'
@@ -21,5 +19,8 @@
 	};
 </script>
 <script type='text/javascript' src='https://aretispa--qualitya.sandbox.my.site.com/ESWAretiWebChat1707821677243/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+	</head>
+  <body>
+    
   </body>
 </html>
