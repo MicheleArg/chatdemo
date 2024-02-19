@@ -1,6 +1,5 @@
 <html>
 	<head>
-		<meta name="referrer" content="no-referrer" />
 	</head>
   <body>
     <script type='text/javascript'>
